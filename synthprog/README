@@ -1,0 +1,4 @@
+На нынишний момент компилируется следующим образом:
+g++ -g mg.cpp -lSDL -lglut -lGL -lGLU -O3 -std=c++11 -o cg
+
+требует установки libsdl1.2-dev и freeglut3-dev
