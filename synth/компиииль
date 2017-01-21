@@ -1,2 +1,0 @@
-clang++ -g mg.cpp -lSDL -lglut -lGL -lGLU -O3 -std=c++14 -o cg
-ну у тебя g++ 
